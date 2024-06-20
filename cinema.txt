@@ -1,0 +1,4 @@
+Asnieres_cinéma1_3_llv_séance1,séance2,séance3
+Lyon_cinéma2_2_fg,llv_séance2,séance3
+Paris_cinéma3_4_1941ID,lfayv,fg_séance3
+Les Molieres_56_2.0_,,_

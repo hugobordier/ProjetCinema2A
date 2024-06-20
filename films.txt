@@ -1,0 +1,4 @@
+La ligne verte_drame, policier ,fantastique_01/03/2000_Tom Hanks,Michael Clarke Duncan_Frank Darabont_Le pénitencier où se déroule l'action s'appelle le Cold Mountain_4.6_Asnières,Paris_180_llv
+1941_guerre, action_11/03/1980_John Belushi,Nancy Allen,Lorraine Gary,Dianne Kay_Steven Spielberg_En 1941, après l'attaque de Pearl Harbor, la peur s'installent chez les californiens_3_Paris,Nice,Nantes_118_1941ID
+Forest Gump_romance,drame_05/10/1994_Tom Hanks,Robin Wright,Gary Sinise_Robert Zemeckis_Sur un banc, à Savannah, en Géorgie, Forrest Gump attend le bus_4.6_Paris,Lyon, Grenoble_142_fg
+La fille aux yeux verts_drame_05/10/1994_Peter Finch, Lorraine Gary_Frank Darabont_La Fille aux yeux verts est une comédie dramatique britannique_3_Lyon_118_lfayv
